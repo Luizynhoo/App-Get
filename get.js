@@ -1,7 +1,7 @@
 /**
  * APP Health
- * @author Professor José de Assis
- * https://joseassis.com.br
+ * @author Luiz Henrique
+ * https://github.com/Luizynhoo
  */
 
 // imc (índice de massa corporal)
