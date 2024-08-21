@@ -28,10 +28,10 @@ APP - Treinamento e aprendizagem de HTML - CSS - JS
 
 <div align="center">
 <h1>IMAGENS DO APP NO COMPUTADOR</h1>
-    
+    <img align="center" height="600" width="1000" src="https://github.com/Luizynhoo/App-Get/blob/main/Resultados/PC.png">
 </div>
 
 <div align="center">
 <h1>IMAGENS DO APP NO CELULAR</h1>
-    
+    <img align="center" height="600" width="400" src="https://github.com/Luizynhoo/App-Get/blob/main/Resultados/celular.png">
 </div>
